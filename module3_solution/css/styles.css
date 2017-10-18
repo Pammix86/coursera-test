@@ -22,9 +22,8 @@ body {
 .navbar-brand {
   padding-top: 25px;
 }
-
-span {
-  color : #fffbfb;
+.navbar-default .navbar-nav>li>a {
+    color : #fffbfb;
 }
 
 .navbar-brand h1 { /* Restaurant name */
