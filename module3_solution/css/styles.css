@@ -21,6 +21,8 @@ body {
 
 .navbar-brand {
   padding-top: 25px;
+  color : #fffbfb;
+  margin-bottom : 25px;
 }
 .navbar-default a span {
     color : #fffbfb;
