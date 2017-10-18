@@ -37,6 +37,7 @@ body {
   margin-top: 0;
   margin-bottom: 25px;
   line-height: .75;
+  text-align: left;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
@@ -53,4 +54,5 @@ body {
 
 #menu-txt { 
    margin-bottom: 25px;
+  font-weight: bold;
 }
