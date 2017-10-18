@@ -46,3 +46,7 @@ body {
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
 }
+
+#menu-txt { 
+   padding-bottom: 25px;
+}
