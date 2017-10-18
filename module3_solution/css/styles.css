@@ -23,6 +23,10 @@ body {
   padding-top: 25px;
 }
 
+#nav-list {
+  color : #fffbfb;
+}
+
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #557c3e;
